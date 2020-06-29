@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893884605386",
+    "firebase_url": "https://laundrydatabase-cbd88.firebaseio.com",
+    "project_id": "laundrydatabase-cbd88",
+    "storage_bucket": "laundrydatabase-cbd88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893884605386:android:f0dd31656131be47c96533",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893884605386-8ihbq685bqc74586i5mqk5i674rerogm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop",
+            "certificate_hash": "3c25ea31b586d1d9d82a6155a28cca756b1c9d80"
+          }
+        },
+        {
+          "client_id": "893884605386-q4ohhq7tl7op99be2ef762h64u4nnv00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArsQr15PzOxcRNhN4hAcGK3Q3Sq48NYEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893884605386-q4ohhq7tl7op99be2ef762h64u4nnv00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
